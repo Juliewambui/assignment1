@@ -21,7 +21,6 @@ public class car
     {
         return isrented;
     }
-    
     public void rentcar()
     {
         if(!isrented){
